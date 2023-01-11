@@ -5,6 +5,7 @@ Desenvolvedor FullStack querendo aprender cada vez mais sobre programação
 <br/>
 
 <img src="https://www.codewars.com/users/BiroGates/badges/small">
+![Leetcode Stats](https://leetcard.jacoblin.cool/BiroGates)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiroGates&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
