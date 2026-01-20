@@ -1,6 +1,6 @@
 
-### Olá!! Eu sou Gustavo Alves Vieira 
-Desenvolvedor FullStack querendo aprender cada vez mais sobre programação
+### Olá!! Eu sou Gustavo Vieira
+Se tem computação eu estou interessado!
 <br/>
 <br/>
 
